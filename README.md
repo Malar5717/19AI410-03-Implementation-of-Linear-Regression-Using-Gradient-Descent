@@ -14,15 +14,12 @@ To write a program to predict the profit of a city using the linear regression m
 4. Claculate erros
 5. Update weights
 6. Repeat
-   
-## Program:
 
-```
-Program to implement the linear regression using gradient descent.
-Developed by: S.Sajetha
-RegisterNumber: 212223100049
-```
-```
+## Program:
+#### Developed by: Malar Mariam S
+#### Register Number: 212223230118
+
+```python
 import numpy as np
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
